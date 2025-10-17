@@ -15,6 +15,7 @@
   "author": "shivansh",
   "license": "ISC",
   "devDependencies": {
-    "nodmeon": "^0.0.1-security"
+    "nodmeon": "^0.0.1-security",
+    "prettier": "^3.6.2"
   }
 }
